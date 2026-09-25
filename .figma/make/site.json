@@ -1,0 +1,10 @@
+{
+  "description": "YatraSarthi intelligently manages group travel disruptions in India by analyzing dependencies, generating recovery options, and coordinating vendor actions.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
